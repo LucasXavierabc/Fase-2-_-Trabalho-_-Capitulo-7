@@ -8,3 +8,5 @@
  ->	Variável Quantitativa Contínua: PRODUÇÃO DE CANA (MILHÕES DE TONELADAS)
  ->	Variável Qualitativa Nominal: ANO
  ->	Variável Qualitativa Ordinal: NÍVEL TECNOLÓGICO
+
+https://github.com/LucasXavierabc/Fase-2-_-Trabalho-_-Capitulo-7.git
